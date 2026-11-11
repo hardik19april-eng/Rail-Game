@@ -43,12 +43,12 @@ Everything is in one HTML file. The 3D is Three.js. The speedometer, sounds and 
 
 - The braking physics are simple, not realistic
 - The level crossing barriers might look off from some angles
-- [ADD ANYTHING ELSE YOU NOTICE WHEN YOU PLAY IT]
 
 ## About how I made it
 
 I thought that I should make a game related to trains, and then I got this idea...I worked towards it for an hour, then I got a satisfied result. 
 I took help from ChatGPT just to correct some errors and to stop my game from malfunctioning. I coded the complete game in VS Code.
+(I used AI in a limit)
 
 
 <img width="1912" height="1021" alt="Screenshot 2026-11-07 162216" src="https://github.com/user-attachments/assets/c7a5673a-d423-4a8b-87dd-c8c252b0af6b" />
